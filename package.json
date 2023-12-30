@@ -6,6 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "\"Obiri M. <obirimelvin@gmail.com> (KSL)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obirimelvin/hello-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/obirimelvin/hello-app/issues"
+  },
+  "homepage": "https://github.com/obirimelvin/hello-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
